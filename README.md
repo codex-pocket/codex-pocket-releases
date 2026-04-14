@@ -1,13 +1,25 @@
-## Download / ダウンロード
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codex-pocket/.github/main/profile/assets/github-hero.svg" alt="CodexPocket hero banner" width="100%">
+</p>
 
-### 日本語
+# CodexPocket Releases
 
-CodexPocket のダウンロードは、[GitHub Releases](https://github.com/codex-pocket/codex-pocket-releases/releases) から行ってください。
+Downloadable release artifacts for CodexPocket.
 
-利用時は、必ず最新版のリリースを使ってください。古いバージョンには、最新の修正や改善が含まれていない場合があります。
+## Download
 
-### English
+- Latest releases: [github.com/codex-pocket/codex-pocket-releases/releases](https://github.com/codex-pocket/codex-pocket-releases/releases)
+- Direct DMG download: [CodexPocketMac.dmg](https://github.com/codex-pocket/codex-pocket-releases/releases/latest/download/CodexPocketMac.dmg)
+- Sparkle appcast: [appcast.xml](https://raw.githubusercontent.com/codex-pocket/codex-pocket-releases/main/appcast.xml)
+- Documentation: [codex-pocket-docs](https://github.com/codex-pocket/codex-pocket-docs)
 
-Download CodexPocket from [GitHub Releases](https://github.com/codex-pocket/codex-pocket-releases/releases).
+## What Lives Here
 
-Please use the latest release whenever possible. Older versions may not include the most recent fixes and improvements.
+- notarized `CodexPocketMac` release artifacts
+- `sha256` checksum files when published with a release
+- Sparkle update metadata for shipped macOS builds
+
+## Notes
+
+- Always prefer the latest release unless you need to reproduce an older build.
+- Product documentation and setup guidance live in [`codex-pocket-docs`](https://github.com/codex-pocket/codex-pocket-docs).
