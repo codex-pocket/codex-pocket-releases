@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CodexPocketMac</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 14 Apr 2026 12:26:54 +0900</pubDate>
+            <link>https://github.com/codex-pocket/codex-pocket-releases/releases/tag/mac-v0.1.0</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/codex-pocket/codex-pocket-releases/releases/download/mac-v0.1.0/CodexPocketMac.dmg" sparkle:edSignature="fAAMJeMrYQDW1iR0qcOIUdqJ9QV/Bc3xIdP5QzzM6ex45/5q+FpLyTn108X0Ubzc0yZiMvIOaKa+kllMf+7PAQ==" length="5973113" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
