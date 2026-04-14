@@ -1,6 +1,3 @@
-# codex-pocket-releases
-Public release artifacts for CodexPocket applications.
-
 ## Download / ダウンロード
 
 ### 日本語
