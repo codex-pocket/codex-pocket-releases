@@ -3,13 +3,18 @@
     <channel>
         <title>CodexPocketMac</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 14 Apr 2026 12:26:54 +0900</pubDate>
-            <link>https://github.com/codex-pocket/codex-pocket-releases/releases/tag/mac-v0.1.0</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Tue, 14 Apr 2026 14:11:34 +0900</pubDate>
+            <link>https://github.com/codex-pocket/codex-pocket-releases/releases/tag/mac-v0.1.1</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/codex-pocket/codex-pocket-releases/releases/download/mac-v0.1.0/CodexPocketMac.dmg" sparkle:edSignature="fAAMJeMrYQDW1iR0qcOIUdqJ9QV/Bc3xIdP5QzzM6ex45/5q+FpLyTn108X0Ubzc0yZiMvIOaKa+kllMf+7PAQ==" length="5973113" type="application/octet-stream"/>
+            <description sparkle:format="markdown"><![CDATA[# CodexPocketMac 0.1.1
+
+- Update verification release for Sparkle.
+- Version bumped from 0.1.0 (build 1) to 0.1.1 (build 2).
+]]></description>
+            <enclosure url="https://github.com/codex-pocket/codex-pocket-releases/releases/download/mac-v0.1.1/CodexPocketMac.dmg" length="6917237" type="application/octet-stream" sparkle:edSignature="5ctJZ5texn+6/uzoD9NNYloM8E4Fd/IgH5+uoWM0onvZuycN0rIMsH4KWea+bX+SZ59+yVwqtEV/YJy2Bd5+Dg=="/>
         </item>
     </channel>
 </rss>
