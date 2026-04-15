@@ -9,7 +9,6 @@ Downloadable release artifacts for CodexPocket.
 ## Download
 
 - Latest releases: [github.com/codex-pocket/codex-pocket-releases/releases](https://github.com/codex-pocket/codex-pocket-releases/releases)
-- Direct DMG download: [CodexPocketMac.dmg](https://github.com/codex-pocket/codex-pocket-releases/releases/latest/download/CodexPocketMac.dmg)
 - Sparkle appcast: [appcast.xml](https://raw.githubusercontent.com/codex-pocket/codex-pocket-releases/main/appcast.xml)
 - Documentation: [codex-pocket-docs](https://github.com/codex-pocket/codex-pocket-docs)
 
