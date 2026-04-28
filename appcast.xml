@@ -3,6 +3,21 @@
     <channel>
         <title>CodexPocketMac</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Tue, 28 Apr 2026 13:36:24 +0900</pubDate>
+            <link>https://github.com/codex-pocket/codex-pocket-releases/releases/tag/mac-v0.1.4</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# CodexPocketMac 0.1.4
+
+- Improve Codex CLI discovery so the Mac bridge can find executables installed in standard Homebrew and system paths, even when the app launch environment has a limited PATH.
+- Refresh the CLI setup guidance and TestFlight release documentation links.
+- Keep the release on build 9, matching the uploaded iPhone companion build for this release candidate.
+]]></description>
+            <enclosure url="https://github.com/codex-pocket/codex-pocket-releases/releases/download/mac-v0.1.4/CodexPocketMac.dmg" length="7075185" type="application/octet-stream" sparkle:edSignature="h0zatAJXgzsWz6pUdPr+YW/KPFcXejqtHmIdB2+LxkJNcmNOGpGUcUY3WM9xesowpl03m1qBGLVAivPyaT6kCQ=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Wed, 15 Apr 2026 13:47:53 +0900</pubDate>
             <link>https://github.com/codex-pocket/codex-pocket-releases/releases/tag/mac-v0.1.2</link>
